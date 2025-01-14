@@ -1,0 +1,38 @@
+.content-about{
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    justify-items: center; 
+    background-color: #1abc9c;
+}
+
+.content-inner{
+    width: fit-content;
+    margin: auto;
+}
+
+
+.title{
+    font-size: 43px;
+    font-weight: 700;
+    color: aliceblue;
+    text-transform: uppercase;
+    /* background-color: blue; */
+    width:fit-content ;
+    margin:auto
+}
+
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    
+}
+
+.content{
+    width: 70%;
+    margin: auto;
+    font-size: 16px;
+
+}
